@@ -1,0 +1,7 @@
+INSERT INTO public.users (email, login, name, birthday, password, enabled) VALUES
+                                                                               ('anna.smith@example.com', 'annasmith', 'Anna Smith', '1988-06-15', '$2a$04$.6s1M6nnrz0zDaFAWecFo.HGtWLmTsFfviEEZvgt3kr.IVZA5E4EW', true),
+                                                                               ('john.doe@example.com', 'johndoe', 'John Doe', '1990-09-22', '$2a$04$.6s1M6nnrz0zDaFAWecFo.HGtWLmTsFfviEEZvgt3kr.IVZA5E4EW', true),
+                                                                               ('maria.johnson@example.com', 'mariajohnson', 'Maria Johnson', '1992-12-10', '$2a$04$.6s1M6nnrz0zDaFAWecFo.HGtWLmTsFfviEEZvgt3kr.IVZA5E4EW', true),
+                                                                               ('james.brown@example.com', 'jamesbrown', 'James Brown', '1985-03-05', '$2a$04$.6s1M6nnrz0zDaFAWecFo.HGtWLmTsFfviEEZvgt3kr.IVZA5E4EW', true),
+                                                                               ('linda.williams@example.com', 'lindawilliams', 'Linda Williams', '1994-07-30', '$2a$04$.6s1M6nnrz0zDaFAWecFo.HGtWLmTsFfviEEZvgt3kr.IVZA5E4EW', true);
+-- пароль 1234

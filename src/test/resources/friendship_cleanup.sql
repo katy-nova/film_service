@@ -1,0 +1,2 @@
+DELETE FROM review;
+ALTER SEQUENCE review_id_seq RESTART WITH 1;
